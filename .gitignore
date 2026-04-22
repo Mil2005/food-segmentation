@@ -6,3 +6,6 @@ venv/
 *.pth
 .DS_Store
 Thumbs.db
+.dvc/config.local 
+ 
+ 
